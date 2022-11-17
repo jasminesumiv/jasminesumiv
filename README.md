@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jasminesumiv
+- 👀 I’m interested in web technologies
+- 🌱 I’m currently learning vue js and react js
+- 💞️ I’m looking to collaborate on new projects in web technologies
+- 📫 Reach me on jasminesumivincent@gmail.com
